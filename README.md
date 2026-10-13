@@ -8,7 +8,7 @@ An end-to-end telecommunications analytics project designed to monitor network i
 ## 🖥️ Dashboard Preview
 An interactive executive dashboard built in Power BI visualizing network traffic spikes, top failing towers, and subscriber risk profiles:
 
-![Network Operations & Subscriber Risk Dashboard](dashboard/dashboard_preview.png)
+![Network Operations & Subscriber Risk Dashboard](dashboard_preview.png)
 
 ---
 
