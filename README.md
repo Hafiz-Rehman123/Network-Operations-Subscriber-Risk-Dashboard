@@ -24,7 +24,7 @@ In the telecommunications industry, network reliability is directly tied to cust
 ---
 
 ## 🔗 Project Links
-* **GitHub Repository:** [Telecom Network Operations Dashboard on GitHub](https://github.com/your-username/telecom-network-operations-dashboard) *(Replace with your live repository link)*
+* **GitHub Repository:** [Telecom Network Operations Dashboard on GitHub](https://github.com/Hafiz-Rehman123/Network-Operations-Subscriber-Risk-Dashboard) *(Replace with your live repository link)*
 * **Interactive Dashboard:** Hosted via Power BI Service / Downloadable `.pbix` file located in the `dashboard/` directory.
 
 ---
